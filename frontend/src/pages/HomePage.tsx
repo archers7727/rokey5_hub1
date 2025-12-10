@@ -26,7 +26,7 @@ export default function HomePage() {
         {/* 로고 및 제목 */}
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-primary-700 mb-2">
-            두산 로봇 재료 손질 시스템
+            MR.쉐프 어시스턴트
           </h1>
           <p className="text-gray-600">
             간편하게 재료를 선택하고 원하는 방식으로 손질하세요
