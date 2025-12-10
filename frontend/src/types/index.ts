@@ -11,7 +11,7 @@ export interface Material {
 }
 
 // 손질 타입
-export type ProcessingType = 'slice' | 'dice' | 'peel';
+export type ProcessingType = 'slice' | 'dice' | 'peel' | 'fry';
 
 // 썰기 두께
 export type SliceThickness = 'thin' | 'medium' | 'thick' | 'cube';

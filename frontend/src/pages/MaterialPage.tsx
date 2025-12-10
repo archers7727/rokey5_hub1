@@ -6,7 +6,6 @@ import { materials, getMaterialsByCategory } from '../data/materials';
 import type { MaterialCategory } from '../types';
 
 const categories: { value: MaterialCategory; label: string }[] = [
-  { value: 'meat', label: '육류' },
   { value: 'vegetable', label: '채소' },
   { value: 'fruit', label: '과일' },
 ];
